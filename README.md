@@ -1,7 +1,7 @@
 # Week 1 – Code Challenge (JavaScript)
 
 *Date:* 2025-09-10  
-*Author:* Your Name  
+*Author:* Abdirahman warsame
 
 *Description:*  
 A set of three small JavaScript programs run from the command line with Node.js:
@@ -82,7 +82,6 @@ A breakdown object (and printed lines) including:
 - TaxablePay
 - PAYE
 - NHIF
-- HousingLevy (if enabled)
 - NetSalary
 
 ## installation
